@@ -38,10 +38,10 @@ The website is fully responsive, interactive, and user-friendly.
 SunnyCafe/
  - pages/
   -  index.html
-   - about.html
-    - menu.html
-    - gallery.html
-    - contact.html
+  - about.html
+  - menu.html
+  - gallery.html
+  - contact.html
   - css/
     - style.css
  - js/

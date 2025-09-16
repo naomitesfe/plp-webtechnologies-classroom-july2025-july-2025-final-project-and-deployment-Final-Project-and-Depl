@@ -36,18 +36,18 @@ The website is fully responsive, interactive, and user-friendly.
 
 ## 🗂️ Project Structure
 SunnyCafe/
-├── pages/
-│   ├── index.html
-│   ├── about.html
-│   ├── menu.html
-│   ├── gallery.html
-│   └── contact.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── images/      # All project images
-└── README.md
+pages/
+  index.html
+  about.html
+  menu.html
+  gallery.html
+  contact.html
+css/
+  style.css
+js/
+  script.js
+images/   # All project images
+README.md
 
 ## ⚙️ Technologies Used
 - **HTML5** → Semantic structure  

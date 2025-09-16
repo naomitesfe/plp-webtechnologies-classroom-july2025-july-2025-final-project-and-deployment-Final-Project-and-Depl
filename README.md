@@ -37,15 +37,15 @@ The website is fully responsive, interactive, and user-friendly.
 ## 🗂️ Project Structure
 SunnyCafe/
  - pages/
-  -  index.html
-  - about.html
-  - menu.html
-  - gallery.html
-  - contact.html
+   - index.html
+   - about.html
+   - menu.html
+   - gallery.html
+   - contact.html
   - css/
     - style.css
  - js/
-  -  script.js
+   -  script.js
   - images/      # All project images
   - README.md
 
